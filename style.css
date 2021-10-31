@@ -198,15 +198,15 @@ nav .desktop-navbar li a:hover{
 }
 
 .laptopasus{
-    background-image: url('../images/laptop-asus-large.jpg');
+    background-image: url('images/laptop-asus-large.jpg');
     margin-top: 30px;
 }
 .macbookair{
-    background-image: url('../images/iphone12-large.jpg');
+    background-image: url('images/iphone12-large.jpg');
     margin-top: 30px;
 }
 .smarttv{
-    background-image: url('../images/smart-tv-large.jpg');
+    background-image: url('images/smart-tv-large.jpg');
     margin-top: 30px;
 }
 
@@ -316,29 +316,29 @@ nav .desktop-navbar li a:hover{
 /* sssssssssssssssssssssssss */
 
 .xiaomi{
-    background-image: url('../images/xiaomi-large.jpg');
+    background-image: url('images/xiaomi-large.jpg');
     margin-top: 30px;
 }
 .oppo{
-    background-image: url('../images/oppo-large.jpg');
+    background-image: url('images/oppo-large.jpg');
     margin-top: 30px;
 }
 
 .harman{
-    background-image: url('../images/harman-kardon-large.jpg');
+    background-image: url('images/harman-kardon-large.jpg');
     margin-top: 30px;
 }
 
 .hometheater{
-    background-image: url('../images/home-theater-large.jpg');
+    background-image: url('images/home-theater-large.jpg');
     margin-top: 30px;
 }   
 .ac{
-    background-image: url('../images/ac-large.jpg');
+    background-image: url('images/ac-large.jpg');
     margin-top: 30px;
 }
 .aoratv{
-    background-image: url('../images/aora-tv-large.jpg');
+    background-image: url('images/aora-tv-large.jpg');
     margin-top: 30px;
 }
 
@@ -502,42 +502,42 @@ nav .desktop-navbar li a:hover{
         padding: 0 32px;
     } 
     .laptopasus{
-        background-image: url('../images/laptop-asus-large.jpg');
+        background-image: url('images/laptop-asus-large.jpg');
         margin-top: 30px;
     }
     .macbookair{
-        background-image: url('../images/iphone12-large.jpg');
+        background-image: url('images/iphone12-large.jpg');
         margin-top: 30px;
     }
     .smarttv{
-        background-image: url('../images/smart-tv-large.jpg');
+        background-image: url('images/smart-tv-large.jpg');
         margin-top: 30px;
     }
 
     
     .xiaomi{
-        background-image: url('../images/xiaomi-large.jpg');
+        background-image: url('images/xiaomi-large.jpg');
         margin-top: 30px;
     }
     .oppo{
-        background-image: url('../images/oppo-large.jpg');
+        background-image: url('images/oppo-large.jpg');
         margin-top: 30px;   
     }
 
     .harman{
-        background-image: url('../images/harman-kardon-large.jpg');
+        background-image: url('images/harman-kardon-large.jpg');
         margin-top: 30px;
     }
     .hometheater{
-        background-image: url('../images/home-theater-large.jpg');
+        background-image: url('images/home-theater-large.jpg');
         margin-top: 30px;
     }
     .ac{
-        background-image: url('../images/ac-large.jpg');
+        background-image: url('images/ac-large.jpg');
         margin-top: 30px;
     }
     .aoratv{
-        background-image: url('../images/aora-tv-large.jpg');
+        background-image: url('images/aora-tv-large.jpg');
         margin-top: 30px;
     }
    
@@ -788,15 +788,15 @@ nav .desktop-navbar li a:hover{
     }
 
     .laptopasus{
-        background-image: url('../images/laptop-asus-small.jpg');
+        background-image: url('images/laptop-asus-small.jpg');
     
     }
     .macbookair{
-        background-image: url('../images/iphone12-small.jpg');
+        background-image: url('images/iphone12-small.jpg');
      
     }
     .smarttv{
-        background-image: url('../images/smart-tv-small.jpg');
+        background-image: url('images/smart-tv-small.jpg');
       
     }
     .hero{
@@ -813,27 +813,27 @@ nav .desktop-navbar li a:hover{
     }
 
     .xiaomi{
-        background-image: url('../images/xiaomi-small.jpg');
+        background-image: url('images/xiaomi-small.jpg');
         margin-top: 30px;
     }
     .oppo{
-        background-image: url('../images/oppo-small.jpg');
+        background-image: url('images/oppo-small.jpg');
         margin-top: 30px;
     }
     .harman{
-        background-image: url('../images/harman-kardon-small.jpg');
+        background-image: url('images/harman-kardon-small.jpg');
         margin-top: 30px;
     }
     .hometheater{
-        background-image: url('../images/home-teather-small.jpg');
+        background-image: url('images/home-teather-small.jpg');
         margin-top: 30px;
     }
     .ac{
-        background-image: url('../images/ac-small.jpg');
+        background-image: url('images/ac-small.jpg');
         margin-top: 30px;
     }
     .aoratv{
-        background-image: url('../images/aora-tv-small.jpg');
+        background-image: url('images/aora-tv-small.jpg');
         margin-top: 30px;
     }
     
