@@ -51,7 +51,7 @@ nav .desktop-navbar li a:hover{
     opacity: 1;
 }
 .link-logo{
-    background: url("images/apple-logo.svg");
+    background: url('images/apple-logo.svg');
     display: block;
     background-position: center;
     height: 44px;
